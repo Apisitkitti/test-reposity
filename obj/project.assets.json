@@ -14,11 +14,35 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\MDT211\\Seperatework\\Accept\\Accept.csproj",
       "projectName": "Accept",
       "projectPath": "E:\\MDT211\\Seperatework\\Accept\\Accept.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\MDT211\\Seperatework\\Accept\\obj\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "projectUniqueName": "E:\\MDT211\\Seperatework\\RegisterLogin\\RegisterLogin.csproj",
+      "projectName": "RegisterLogin",
+      "projectPath": "E:\\MDT211\\Seperatework\\RegisterLogin\\RegisterLogin.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\MDT211\\Seperatework\\RegisterLogin\\obj\\",
+=======
+      "projectUniqueName": "E:\\MDT211\\Seperatework\\People\\People.csproj",
+      "projectName": "People",
+      "projectPath": "E:\\MDT211\\Seperatework\\People\\People.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\MDT211\\Seperatework\\People\\obj\\",
+>>>>>>> People
+=======
+      "projectUniqueName": "E:\\MDT211\\Seperatework\\Room\\Room.csproj",
+      "projectName": "Room",
+      "projectPath": "E:\\MDT211\\Seperatework\\Room\\Room.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\MDT211\\Seperatework\\Room\\obj\\",
+>>>>>>> Room
+>>>>>>> RegisterLogin
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
