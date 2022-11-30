@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\MDT211\\Seperatework\\RegisterLogin\\RegisterLogin.csproj",
       "projectName": "RegisterLogin",
       "projectPath": "E:\\MDT211\\Seperatework\\RegisterLogin\\RegisterLogin.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\MDT211\\Seperatework\\RegisterLogin\\obj\\",
+=======
+      "projectUniqueName": "E:\\MDT211\\Seperatework\\People\\People.csproj",
+      "projectName": "People",
+      "projectPath": "E:\\MDT211\\Seperatework\\People\\People.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\MDT211\\Seperatework\\People\\obj\\",
+>>>>>>> People
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
